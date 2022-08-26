@@ -6,7 +6,7 @@ Myself Mahesh a Automation test Engineer with some Python, java & Full stack web
  Here are some ideas to get you started:
 
 - 🔭 I belive in free education.
-- 🌱 I’m currently learning FullStack Web development
+- 🌱 I’m currently seeking for new opportunities
 - 👯 I’m open for freelance projects
 
 
