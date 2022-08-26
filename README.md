@@ -19,18 +19,6 @@ Myself Mahesh a Automation test Engineer with some Python, java & Full stack web
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<br/>
-<br/>
-<br/>
-
-
-
-
-
-
-<br/>
-<br/>
-<br/>
 
 
 
