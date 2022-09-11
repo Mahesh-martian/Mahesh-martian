@@ -1,19 +1,32 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahesh-martian" alt="Mahesh-martian" /> </p>
 
-<p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
-</p>
+<p align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"/></p>
 
 <h1>Hello, I'm Mahesh 🙋‍♂️</h1>
 <h2>💻👨‍💻Automation test Engineer
- with some Python, java & Full stack web development Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS and Data structures.
+ with some Python, java & Full stack web development Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS and Data structures.</h2>
 
- <h2>
- Here are some ideas to get you started:
+```dart
+// tools_I_use organized
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Java",  , "Python",  },
+    "OtherLanguages" : { "HTML", "CSS", "Bootstrap", "Json", },
+    "Database" : { "Mysql", "Sqlite" },
+    "Editors" : { "Vscode", "Sublime",  "Ecplise", "Pycharm" },
+    "Platforms" : {  "Windows", "MacOS" },
+    "OtherTools" : { "Git", "Selenium", "Maven", "Jenkins", "GitHub" }
+  };
+}
+```
+ 
+ 
 
-- 🔭 I belive in free education.
-- 🌱 I’m currently seeking for new opportunities
-- 👯 I’m open for freelance projects</h2>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **passionate about coding**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **New Technologies**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Python,Java, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; : Drop a mail  **[丂𝙋⚡乂𝘿](mailto:maheshkumar201095@gmail.com)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <h2>Tools & Technologies</h2>
 
