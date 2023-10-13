@@ -3,8 +3,9 @@
 <p align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"/></p>
 
 <h1>Hello, I'm Mahesh 🙋‍♂️</h1>
-<h2>💻👨‍💻Automation test Engineer
- with some Python, java & Full stack web development Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS and Data structures.</h2>
+<h2>💻👨‍💻  I'm an enthusiastic Data Scientist and Machine Learning Engineer 💼 with expertise in Python and Java, along with a strong background in full-stack web development. I'm passionate about writing clean and scalable code using the latest technology stack. I have a continuous hunger for learning and staying up-to-date with the ever-evolving field of data science and machine learning. My skills are rooted in computer science fundamentals, including operating systems, database management systems, and data structures. I'm dedicated to applying my knowledge and skills to solve complex data-driven problems."
+
+This version highlights your skills and interests in the context of a Data Scientist and Machine Learning Engineer.</h2>
 
 ```dart
 // tools_I_use organized
