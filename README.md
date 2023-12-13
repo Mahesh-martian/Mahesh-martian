@@ -9,12 +9,17 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java",  , "Python",  },
-    "OtherLanguages" : { "HTML", "CSS", "Bootstrap", "Json", },
-    "Database" : { "Mysql", "Sqlite", "MongoDB", "Cassandra" },
-    "Editors" : { "Vscode", "Sublime",  "Ecplise", "Pycharm" },
-    "Platforms" : {  "Windows", "MacOS" },
-    "OtherTools" : { "Git", "Selenium", "Maven", "Jenkins", "GitHub" }
+    "Programming Languages" : { "Python", "R" },
+    "Data Manipulation" : { "Pandas", "NumPy" },
+    "Data Visualization" : { "Matplotlib", "Seaborn", "Plotly" },
+    "Machine Learning" : { "Scikit-learn", "TensorFlow", "PyTorch" },
+    "Statistical Analysis" : { "SciPy", "Statsmodels" },
+    "Database" : { "SQL", "MongoDB" },
+    "Big Data Tools" : { "Spark", "Hadoop" },
+    "Text Analysis" : { "NLTK", "Spacy" },
+    "Version Control" : { "Git" },
+    "Platforms" : { "Jupyter Notebooks", "Google Colab" },
+    "Visualization Tools" : { "Tableau", "Power BI" }
   };
 }
 ```
